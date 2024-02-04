@@ -1,0 +1,9 @@
+[submodule "cad/pcb/RP2040-designguide"]
+	path = cad/pcb/RP2040-designguide
+	url = https://github.com/Sleepdealr/RP2040-designguide.git
+[submodule "cad/case/mayscadlib"]
+	path = cad/case/mayscadlib
+	url = git@github.com:mayjs/mayscadlib.git
+[submodule "software/vial-qmk"]
+	path = software/vial-qmk
+	url = ../vial-qmk.git

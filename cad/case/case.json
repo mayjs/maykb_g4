@@ -1,0 +1,21 @@
+{
+    "parameterSets": {
+        "Right Case": {
+            "case_side": "right",
+            "case_part": "case"
+        },
+        "Left Case" : {
+            "case_side": "left",
+            "case_part": "case"
+        },
+        "Right Bar": {
+            "case_side": "right",
+            "case_part": "bar"
+        },
+        "Left Bar" : {
+            "case_side": "left",
+            "case_part": "bar"
+        }
+    },
+    "fileFormatVersion": "1"
+}
